@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://cdn.wallpapersafari.com/42/25/vi62rU.jpg") ;
+    color:rgb(251, 251, 251);
+}
+.copy_right_footer{
+    position: fixed;
+    color: #5cfaff;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+.header_div{
+    background: linear-gradient( #9454FE 0%,#33FFFF 100%);
+}
+
